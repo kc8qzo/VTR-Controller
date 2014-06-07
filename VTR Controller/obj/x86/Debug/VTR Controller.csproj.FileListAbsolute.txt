@@ -1,0 +1,20 @@
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\bin\Debug\VTR Controller.exe
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\bin\Debug\VTR Controller.pdb
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR_Controller.Form1.resources
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR_Controller.Properties.Resources.resources
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.csproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.exe
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.pdb
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.csprojResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\bin\Debug\PowerButtonControl.dll
+N:\My Documents\Visual Studio 2010\Projects\VTR Controller\VTR Controller\bin\Debug\PowerButtonControl.pdb
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.exe
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.pdb
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\bin\Debug\VTR Controller.exe
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\bin\Debug\VTR Controller.pdb
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\bin\Debug\PowerButtonControl.dll
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\bin\Debug\PowerButtonControl.pdb
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.csprojResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR_Controller.Form1.resources
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR_Controller.Properties.Resources.resources
+N:\My Documents\Visual Studio 2012\Projects\VTR Controller\VTR Controller\obj\x86\Debug\VTR Controller.csproj.GenerateResource.Cache

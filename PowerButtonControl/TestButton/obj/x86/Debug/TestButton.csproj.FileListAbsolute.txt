@@ -1,0 +1,20 @@
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\bin\Debug\TestButton.exe
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\bin\Debug\TestButton.pdb
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\bin\Debug\PowerButtonControl.dll
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\bin\Debug\PowerButtonControl.pdb
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.Form1.resources
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.Properties.Resources.resources
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.exe
+c:\data\visual studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.pdb
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.exe
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.pdb
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\bin\Debug\TestButton.exe
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\bin\Debug\TestButton.pdb
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\bin\Debug\PowerButtonControl.dll
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\bin\Debug\PowerButtonControl.pdb
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.Form1.resources
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.Properties.Resources.resources
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\TestButton\obj\x86\Debug\TestButton.csproj.GenerateResource.Cache

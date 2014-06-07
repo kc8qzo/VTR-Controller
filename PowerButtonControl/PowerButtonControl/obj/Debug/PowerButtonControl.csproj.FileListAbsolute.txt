@@ -1,0 +1,16 @@
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\bin\Debug\PowerButtonControl.dll
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\bin\Debug\PowerButtonControl.pdb
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\obj\Debug\ResolveAssemblyReference.cache
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.Properties.Resources.resources
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\obj\Debug\GenerateResource.read.1.tlog
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\obj\Debug\GenerateResource.write.1.tlog
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.dll
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.pdb
+c:\data\visual studio 2010\Projects\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.PowerButton.resources
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\PowerButtonControl\bin\Debug\PowerButtonControl.dll
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\PowerButtonControl\bin\Debug\PowerButtonControl.pdb
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.PowerButton.resources
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.Properties.Resources.resources
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.csproj.GenerateResource.Cache
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.dll
+C:\Users\THOMASMAIN\Desktop\PowerButtonControl\PowerButtonControl\obj\Debug\PowerButtonControl.pdb

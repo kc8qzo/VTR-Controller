@@ -1,0 +1,11 @@
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\bin\Release\TestButton.exe
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\bin\Release\TestButton.pdb
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\bin\Release\PowerButtonControl.dll
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\bin\Release\PowerButtonControl.pdb
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Release\TestButton.Form1.resources
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Release\TestButton.Properties.Resources.resources
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Release\TestButton.exe
+C:\Data\Visual Studio 2010\Projects\PowerButtonControl\TestButton\obj\x86\Release\TestButton.pdb
